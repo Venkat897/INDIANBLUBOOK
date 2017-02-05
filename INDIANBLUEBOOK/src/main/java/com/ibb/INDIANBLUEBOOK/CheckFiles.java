@@ -10,4 +10,9 @@ public class CheckFiles {
 		
 		System.out.println("update success");
 	}
+	
+void delete(){
+		
+		System.out.println("update success");
+	}
 }

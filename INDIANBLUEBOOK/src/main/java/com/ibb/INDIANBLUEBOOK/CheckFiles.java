@@ -6,4 +6,8 @@ public class CheckFiles {
 		System.out.println("insert success");
 	}
 	
+	void update(){
+		
+		System.out.println("update success");
+	}
 }
